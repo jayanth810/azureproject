@@ -1,0 +1,9 @@
+{
+	"name": "df-jayanth-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2542d90-3933-46bc-84cd-0ea2a9e4e04a",
+		"tenantId": "edfe125e-1650-40de-8fa6-68a7f449fe84"
+	}
+}
